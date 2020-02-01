@@ -1,2 +1,2 @@
 # shipless
-Easy way to add additional functionality independent of appllication
+A set of additionals for ship modules
